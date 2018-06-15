@@ -6,7 +6,7 @@
     "cryptocurrency",
     "icon"
   ],
-  "homepage": "https://github.com/cjdowner/cryptocurrency-icons",
+  "homepage": "https://github.com/go-apollyon/cryptocurrency-icons",
   "author": {
     "name": "Christopher Downer",
     "url": "https://github.com/cjdowner"
@@ -65,7 +65,7 @@
     "build": "npm run minify-images && npm run imacss && npm run svgstore",
     "prebuild": "npm run clean"
   },
-  "repository": "cjdowner/cryptocurrency-icons",
+  "repository": "go-apollyon/cryptocurrency-icons",
   "license": "CC0-1.0",
   "devDependencies": {
     "concat": "^1.0.3",
